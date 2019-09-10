@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Swipe Quiz</string>
+
+    // main xml tv
+    <string name="tv_title">Quiz Instructions</string>
+    <string name="tv_subtitle">Swipe left for true, swipe right for false. Click on the question for the answer.</string>
+
+    // question xml tv
+    <string name="tv_question">Question</string>
+</resources>
